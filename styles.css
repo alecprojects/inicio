@@ -10,7 +10,7 @@ body {
     font-size: 2.5em;
     margin: 0;
 }
-.site-header {
+.encabe-azado {
   border-radius: 18px;
   padding: 8px 0;
   margin-bottom: 50px;
@@ -33,7 +33,7 @@ body {
   justify-content: space-between;
   align-items: center;
 }
-.welcome {
+.bienvenida {
   color: rgba(255, 255, 255, 0.459);
   margin: 4px 0 0;
   font-weight: 600;
@@ -62,11 +62,11 @@ body {
   padding-left: 10px;
 }
 
-.circle {
+.circulo1 {
   padding: 0 4px;
 }
 
-.circle2 {
+.circulo2 {
   display: inline-block;
   align-items: center;
   width: 10px;
